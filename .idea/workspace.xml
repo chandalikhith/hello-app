@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a1e5dab0-f49d-4c00-a863-e5c96406798c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/HelloApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/HelloApp.java" afterDir="false" />
-    </list>
+    <list default="true" id="a1e5dab0-f49d-4c00-a863-e5c96406798c" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,7 +36,7 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "feature/UC5",
+    "git-widget-placeholder": "feature/UC4",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/Likhith/OneDrive/Desktop/Hello_App/src/main/java/org/example/Main.java"
   }
